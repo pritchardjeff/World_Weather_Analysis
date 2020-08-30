@@ -1,1 +1,2 @@
 # World_Weather_Analysis
+Added weather description to weather data previously used, chose cities to create a travel itinerary, used google maps to create a travel route between the four cities selected as well as added a market layer map.
